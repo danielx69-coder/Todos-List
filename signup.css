@@ -113,6 +113,16 @@ button{
         width: 40%;
         font-size: 15px;
     }
+
+    #login{
+        font-size: 13px;
+    }
+
+    form{
+        height: 420px;
+    }
+    
 }
+
 
 
